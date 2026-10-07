@@ -8,7 +8,7 @@
 
 ## 系统架构
 传感器 → 数据采集 → 人体/机械臂识别 → 碰撞检测 → TCP传输 → 急停控制
-<img width="70.5" height="406.5" alt="image" src="https://github.com/user-attachments/assets/2896656f-a7d3-45cb-92a0-89b491661360" />
+<img width="705" height="406.5" alt="image" src="https://github.com/user-attachments/assets/2896656f-a7d3-45cb-92a0-89b491661360" />
 
 ## 技术栈
 
