@@ -49,14 +49,14 @@
 
 - 演示视频：
 https://github.com/user-attachments/assets/d4eaae31-3443-479d-afcc-de608a6239d8
-<img width="280" height="186" alt="演示视频_解说" src="https://github.com/user-attachments/assets/05d9e280-42f6-4c94-afd5-8e4528c4bbc4" />
+<img width="560" height="372" alt="演示视频_解说" src="https://github.com/user-attachments/assets/05d9e280-42f6-4c94-afd5-8e4528c4bbc4" />
 
 
 
 
 
 - 系统截图：
-- <img width="1748" height="904" alt="9338c2a4e23daf59a3948e93424b567a" src="https://github.com/user-attachments/assets/e694ea99-df6b-4b88-88a1-2a6e282d2ba0" />
+- <img width="879" height="452" alt="9338c2a4e23daf59a3948e93424b567a" src="https://github.com/user-attachments/assets/e694ea99-df6b-4b88-88a1-2a6e282d2ba0" />
 
 ## 已知局限与后续改进方向
 
