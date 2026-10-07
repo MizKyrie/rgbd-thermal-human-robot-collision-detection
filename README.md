@@ -4,7 +4,7 @@
 
 ## 项目简介
 
-本项目为华中科技大学《机器人》课程设计。通过 **Intel RealSense D435i** 双目相机与 **GYMCU90640** 红外传感器，采集环境的 RGB、深度和温度信息，利用多传感器融合算法识别机械臂（AUBO i7）与人体，并判断是否发生碰撞，最终通过 TCP 通信触发机械臂急停。
+本项目通过 **Intel RealSense D435i** 双目相机与 **GYMCU90640** 红外传感器，采集环境的 RGB、深度和温度信息，利用多传感器融合算法识别机械臂（AUBO i7）与人体，并判断是否发生碰撞，最终通过 TCP 通信触发机械臂急停。
 
 ## 系统架构
 传感器 → 数据采集 → 人体/机械臂识别 → 碰撞检测 → TCP传输 → 急停控制
@@ -41,14 +41,17 @@
 
 | 成员 | GitHub | 贡献 |
 | :--- | :--- | :--- |
-| **MizKyrie** | [@MizKyrie](https://github.com/MizKyrie) | 红外相机配置，目标提取与碰撞检测算法编写 |
+| **MizKyrie** | [@MizKyrie](https://github.com/MizKyrie) | 红外相机配置，目标提取与碰撞检测算法编写，最终项目整理归档 |
 | **operatorzhy** | [@operatorzhy](https://github.com/operatorzhy) | 机械臂配置与急停控制算法实现，实验平台设计 |
-| **linyuxuantherion** | [@linyuxuantherion](https://github.com/linyuxuantherion) | [待补充] |
+| **linyuxuantherion** | [@linyuxuantherion](https://github.com/linyuxuantherion) | 双目相机配置，夹具设计与打印，可视化与代码整合  |
 
 ## 成果展示
 
 - 演示视频：[待补充]
-- 系统截图：见 `media/screenshots/`
+
+
+- 系统截图：
+<img width="1397" height="728" alt="image" src="https://github.com/user-attachments/assets/5a641b5a-179a-44d1-8c3c-6b4e1a1f2a78" />
 
 ## 已知局限与后续改进方向
 
