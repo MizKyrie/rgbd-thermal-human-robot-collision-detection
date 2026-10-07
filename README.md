@@ -68,3 +68,6 @@ https://github.com/user-attachments/assets/d4eaae31-3443-479d-afcc-de608a6239d8
 2. 检测端：依次运行 `shot_depth_img.py`、`thermal_camera.py`、`check_if_collision.py`
 3. 控制端：运行 `move.py`
 4. 确保两台电脑在同一局域网，并修改 IP 地址
+
+Co-authored-by: operatorzhy <operatorzhy@users.noreply.github.com>
+Co-authored-by: linyuxuantherion <linyuxuantherion@users.noreply.github.com>
