@@ -47,11 +47,12 @@
 
 ## 成果展示
 
-- 演示视频：[待补充]
+- 演示视频：
+https://github.com/user-attachments/assets/d4eaae31-3443-479d-afcc-de608a6239d8
 
 
 - 系统截图：
-<img width="1397" height="728" alt="image" src="https://github.com/user-attachments/assets/5a641b5a-179a-44d1-8c3c-6b4e1a1f2a78" />
+- <img width="1748" height="904" alt="9338c2a4e23daf59a3948e93424b567a" src="https://github.com/user-attachments/assets/e694ea99-df6b-4b88-88a1-2a6e282d2ba0" />
 
 ## 已知局限与后续改进方向
 
